@@ -3,7 +3,11 @@ eyERED is an open-source command-line tool for forensic analysis on Linux system
 
 Features:
 File integrity checks (hidden files, recent changes, hash verification)
+
 Process and memory analysis (running processes, memory dumps)
+
 Network monitoring (open ports, active connections)
+
 Log analysis (failed logins, system activity tracking)
+
 Modular and extensible design for easy customization
