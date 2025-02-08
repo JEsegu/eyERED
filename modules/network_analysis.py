@@ -9,3 +9,7 @@ def list_open_ports():
 
 if __name__ == "__main__":
     list_open_ports()
+<<<<<<< HEAD
+=======
+
+>>>>>>> d6126a4 (Added file, memory, network, and log analysis modules)

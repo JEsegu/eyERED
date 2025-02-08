@@ -13,3 +13,7 @@ def check_failed_logins(log_file="/var/log/auth.log"):
 
 if __name__ == "__main__":
     check_failed_logins()
+<<<<<<< HEAD
+=======
+
+>>>>>>> d6126a4 (Added file, memory, network, and log analysis modules)

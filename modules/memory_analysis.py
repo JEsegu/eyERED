@@ -8,3 +8,7 @@ def list_running_processes():
 
 if __name__ == "__main__":
     list_running_processes()
+<<<<<<< HEAD
+=======
+
+>>>>>>> d6126a4 (Added file, memory, network, and log analysis modules)
