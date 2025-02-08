@@ -16,8 +16,4 @@ def compute_file_hash(file_path, algorithm="sha256"):
     return hasher.hexdigest()
 
 if __name__ == "__main__":
-    print("Hidden files:", list_hidden_files())
-<<<<<<< HEAD
-=======
-
->>>>>>> d6126a4 (Added file, memory, network, and log analysis modules)
+    print("Hidden files:", list_hidden_files());
